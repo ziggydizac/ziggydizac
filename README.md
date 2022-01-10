@@ -1,5 +1,6 @@
-**Hey, I'm Lasse**
+###### Hey, I'm Lasse
+
+**based in Hamburg, Germany**
 
 Welcome to my [Github](https://github.com/ziggydizac)
 
-Future Web Dev based in hamburg, germany!
