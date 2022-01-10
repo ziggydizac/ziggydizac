@@ -1,2 +1,5 @@
 Lasse Lüders
-I am 41 years old and live in hamburg.
+I live in hamburg.
+
+How old are you?
+41
