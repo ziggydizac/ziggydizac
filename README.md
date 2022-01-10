@@ -1,5 +1,5 @@
-### **Lasse Lüders**
+**Hey, I'm Lasse**
 
-**Based in hamburg, germany**
+Welcome to my [Github](https://github.com/ziggydizac)
 
-Lasse on [Github](https://github.com/ziggydizac)
+Future Web Dev based in hamburg, germany!
